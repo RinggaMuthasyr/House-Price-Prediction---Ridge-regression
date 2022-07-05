@@ -12,6 +12,8 @@ Ridge regression is the method used for the analysis of multicollinearity in mul
 - The ridge estimator is very effective when it comes to improving the least-squares estimate in situations where there is multicollinearity.
 - Model complexity is reduced.
 
+## About Dataset
+This project uses a case study on "Boston Suburban Housing Values" to predict house price in Boston (available on : kaggle.com)
 
 ## Still don't understand this project?
 you can visit the following link: https://www.linkedin.com/posts/ringga-prasetya_house-price-prediction-ridge-regression-activity-6942669274930905088-V4lT?utm_source=linkedin_share&utm_medium=member_desktop_web
