@@ -4,7 +4,7 @@ How to use Ridge Regression in prediction and how to get the best model on Ridge
 ## What is Ridge regression?
 Ridge regression is the method used for the analysis of multicollinearity in multiple regression data. It is most suitable when a data set contains a higher number of predictor variables than the number of observations. The second-best scenario is when multicollinearity is experienced in a set.
 
-## Why do we need to study Ridge Regression?
+## What are the advantages of Ridge Regression?
 - It protects the model from overfitting.
 - It does not need unbiased estimators.
 - There is only enough bias to make the estimates reasonably reliable approximations to the true population values.
